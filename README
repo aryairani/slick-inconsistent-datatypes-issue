@@ -1,4 +1,3 @@
-This is your new Play 2.1 application
-=====================================
+see http://localhost:9000/working vs http://localhost:9000/broken
 
-This file will be packaged with your application, when using `play dist`.
+Of course, you don't have my database, but maybe you can generate from the model schema?  
